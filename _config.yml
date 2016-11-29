@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            SBRO
-tagline:          'A Jekyll Site'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://sbro.github.io
+title:            Steph Brooks
+tagline:          'Technical Writer & Web Developer'
+description:      'Hi! I'm a technical writer and web developer based in San Francisco, CA. Welcome to my portfolio site! <a href="#">Contact Me</a>'
+url:              https://stephbrooks.com
 baseurl:          /
 
 author:
