@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Steph Brooks
 tagline:          'Technical Writer & Web Developer'
-description:      'Hi! I'm a technical writer and web developer based in San Francisco, CA. Welcome to my portfolio site! <a href="#">Contact Me</a>'
+description:      'Hi! Im a technical writer and web developer based in San Francisco, CA. Welcome to my portfolio site! <a href="#">Contact Me</a>'
 url:              https://stephbrooks.com
 baseurl:          /
 
